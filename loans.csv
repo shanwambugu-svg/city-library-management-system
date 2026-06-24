@@ -1,0 +1,4 @@
+loan_id,member_id,book_id,loan_date,due_date,return_date,is_active
+L0001,M001,B001,2025-06-01,2025-06-15,2025-06-10,False
+L0002,M002,B003,2025-06-10,2025-06-24,,True
+L0003,M003,B005,2025-06-15,2025-06-29,,True

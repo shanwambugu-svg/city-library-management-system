@@ -1,0 +1,6 @@
+member_id,name,email,join_date,borrowed_books
+M001,Alice Johnson,alice@email.com,2024-01-10,
+M002,Bob Smith,bob@email.com,2024-02-14,
+M003,Carol White,carol@email.com,2024-03-05,
+M004,David Brown,david@email.com,2024-04-22,
+M005,Emma Davis,emma@email.com,2024-05-18,

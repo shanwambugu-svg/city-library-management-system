@@ -1,0 +1,11 @@
+book_id,title,author,genre,year,total_copies,available_copies
+B001,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,3,3
+B002,To Kill a Mockingbird,Harper Lee,Fiction,1960,2,2
+B003,1984,George Orwell,Dystopian,1949,4,4
+B004,A Brief History of Time,Stephen Hawking,Science,1988,2,2
+B005,Clean Code,Robert C. Martin,Technology,2008,3,3
+B006,The Pragmatic Programmer,David Thomas,Technology,2019,2,2
+B007,Sapiens,Yuval Noah Harari,History,2011,3,3
+B008,Educated,Tara Westover,Memoir,2018,2,2
+B009,Python Crash Course,Eric Matthes,Technology,2023,3,3
+B010,The Alchemist,Paulo Coelho,Fiction,1988,2,2
